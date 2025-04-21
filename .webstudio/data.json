@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "ae5e4489-f002-421f-8c53-152c2c7b476d",
+    "id": "34a08cf8-df4d-4ff9-b7af-f0e4d756496e",
     "projectId": "4d691365-d09b-47bd-b9f9-5e55af3f3997",
-    "version": 97,
-    "createdAt": "2025-04-21T05:39:40.667+00:00",
-    "updatedAt": "2025-04-21T05:39:40.667+00:00",
+    "version": 99,
+    "createdAt": "2025-04-21T05:42:17.802+00:00",
+    "updatedAt": "2025-04-21T05:42:17.802+00:00",
     "pages": {
       "meta": {
         "siteName": "Mastapay",
@@ -52346,7 +52346,7 @@
           "children": [
             {
               "type": "text",
-              "value": "What drives Finance Flow?"
+              "value": "What drives Mastapay?"
             }
           ]
         }
@@ -52728,7 +52728,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Community Driven"
+              "value": "Customer Driven"
             }
           ]
         }

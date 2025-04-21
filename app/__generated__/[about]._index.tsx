@@ -11,7 +11,7 @@ import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "4d691365-d09b-47bd-b9f9-5e55af3f3997";
 
-      export const lastPublished = "2025-04-21T05:39:40.667Z";
+      export const lastPublished = "2025-04-21T05:42:17.802Z";
 
       export const siteName = "Mastapay";
 
@@ -269,7 +269,7 @@ className={`w-box c1357293 c9jnjeu c11gzs80 c1fd0kk1 czr2pxy c155uc7w cry9bxc c1
 <Heading
 tag={"h2"}
 className={`w-heading c1dxq9cf c11dowh9 c32myit cwrra4i c12y6bqh`}>
-{"What drives Finance Flow?"}
+{"What drives Mastapay?"}
 </Heading>
 <Box
 className={`w-box cry9bxc c1lfjoq7 cdczzub c1s46o9r`}>
@@ -351,7 +351,7 @@ className={`w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7`}>
 <Heading
 tag={"h3"}
 className={`w-heading cuoke4w c11dowh9 c32myit cwrra4i c12y6bqh`}>
-{"Community Driven"}
+{"Customer Driven"}
 </Heading>
 <Paragraph
 className={`w-paragraph`}>
