@@ -11,7 +11,7 @@ import { Link as Link, Body as Body } from "@webstudio-is/sdk-components-react-r
 
       export const projectId = "4d691365-d09b-47bd-b9f9-5e55af3f3997";
 
-      export const lastPublished = "2025-04-21T05:42:17.802Z";
+      export const lastPublished = "2025-04-21T05:52:51.776Z";
 
       export const siteName = "Mastapay";
 
@@ -583,10 +583,10 @@ className={`w-box cry9bxc c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 cgl7u82 crlid6h ca
 <Box
 className={`w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c16xs6ny c1wt8a7g`}>
 <Image
-alt={"Sophie Moore, Community Lead"}
+alt={"Lukmon Abdulsalam, CTO"}
 src={"/assets/lukmon-abdulsalam_IFZb8WUpBPqdWyTPn3WIp.jpg"}
-width={3216}
-height={1528}
+width={654}
+height={800}
 className={`w-image cc0tcse c1gxuxwl c1w14gb3 c7ylbzb c5u7r4m c1h5pqsu`} />
 </Box>
 <Box
@@ -606,7 +606,7 @@ className={`w-box cry9bxc c1lfjoq7 c18v2pa2 c1z0l37u c1ml0hr7 cgl7u82 crlid6h ca
 <Box
 className={`w-box cry9bxc c1lfjoq7 c1z0l37u c1ml0hr7 c16xs6ny c1wt8a7g`}>
 <Image
-alt={"Alex Turner, Operations"}
+alt={"Kofoshi, Operations"}
 src={"/assets/Rectangle_2_(2)_flLnSLUZXqQ2ChgXESfKG.png"}
 width={654}
 height={800}

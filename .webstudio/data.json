@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "34a08cf8-df4d-4ff9-b7af-f0e4d756496e",
+    "id": "02b0e124-6911-4dcf-afeb-55347fb612d9",
     "projectId": "4d691365-d09b-47bd-b9f9-5e55af3f3997",
-    "version": 99,
-    "createdAt": "2025-04-21T05:42:17.802+00:00",
-    "updatedAt": "2025-04-21T05:42:17.802+00:00",
+    "version": 111,
+    "createdAt": "2025-04-21T05:52:51.776+00:00",
+    "updatedAt": "2025-04-21T05:52:51.776+00:00",
     "pages": {
       "meta": {
         "siteName": "Mastapay",
@@ -40031,7 +40031,7 @@
           "instanceId": "ghwJ2IH6drAcM2_qQgXAn",
           "name": "alt",
           "type": "string",
-          "value": "Sophie Moore, Community Lead"
+          "value": "Lukmon Abdulsalam, CTO"
         }
       ],
       [
@@ -40041,7 +40041,7 @@
           "instanceId": "Lxy2Kt-B3bd-w-jUnXkZc",
           "name": "alt",
           "type": "string",
-          "value": "Alex Turner, Operations"
+          "value": "Kofoshi, Operations"
         }
       ],
       [
@@ -40090,8 +40090,8 @@
           "id": "ko4bxCf2bLZ74A6WJqQVs",
           "instanceId": "ghwJ2IH6drAcM2_qQgXAn",
           "name": "width",
-          "type": "asset",
-          "value": "9cb167545836e286601da7400f6c84999d21d55c03f86b77cfc35d718c3489cb"
+          "type": "number",
+          "value": 654
         }
       ],
       [
@@ -40100,8 +40100,8 @@
           "id": "TeTeTcnstTBEpaoaE4Z-N",
           "instanceId": "ghwJ2IH6drAcM2_qQgXAn",
           "name": "height",
-          "type": "asset",
-          "value": "9cb167545836e286601da7400f6c84999d21d55c03f86b77cfc35d718c3489cb"
+          "type": "number",
+          "value": 800
         }
       ],
       [
@@ -53695,6 +53695,7 @@
           "type": "instance",
           "id": "ghwJ2IH6drAcM2_qQgXAn",
           "component": "Image",
+          "label": "Image",
           "children": []
         }
       ],
@@ -59937,9 +59938,9 @@
     "deployment": {
       "destination": "saas",
       "domains": [
-        "marketplace-financeflow-saas-gz5i8"
+        "mastapay-saas"
       ],
-      "assetsDomain": "marketplace-financeflow-saas-gz5i8",
+      "assetsDomain": "mastapay-saas",
       "excludeWstdDomainFromSearch": false
     }
   },
@@ -60694,7 +60695,7 @@
   "user": {
     "email": "dynage.digital@gmail.com"
   },
-  "projectDomain": "marketplace-financeflow-saas-gz5i8",
+  "projectDomain": "mastapay-saas",
   "projectTitle": "Mastapay (SaaS)",
   "origin": "https://apps.webstudio.is"
 }
