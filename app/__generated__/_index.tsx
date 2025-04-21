@@ -11,7 +11,7 @@ import { Dialog as Dialog, DialogTrigger as DialogTrigger, DialogOverlay as Dial
 
       export const projectId = "4d691365-d09b-47bd-b9f9-5e55af3f3997";
 
-      export const lastPublished = "2025-04-21T05:33:55.674Z";
+      export const lastPublished = "2025-04-21T05:39:40.667Z";
 
       export const siteName = "Mastapay";
 
