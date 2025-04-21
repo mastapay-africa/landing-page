@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "56f3a431-ff03-4331-ad71-3ebb31b5f7e4",
+    "id": "adedc056-13e3-449b-9e23-6e415aa8e56a",
     "projectId": "4d691365-d09b-47bd-b9f9-5e55af3f3997",
-    "version": 86,
-    "createdAt": "2025-04-21T05:02:39.582+00:00",
-    "updatedAt": "2025-04-21T05:02:39.582+00:00",
+    "version": 95,
+    "createdAt": "2025-04-21T05:33:55.674+00:00",
+    "updatedAt": "2025-04-21T05:33:55.674+00:00",
     "pages": {
       "meta": {
         "siteName": "Mastapay",
@@ -20,9 +20,10 @@
         "rootInstanceId": "Nt7qDXIegyunmPsxvC5Vq",
         "systemDataSourceId": "YM1a_TzLRzq5KnAuCvK7G",
         "meta": {
-          "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fugiat nulla suspendisse tortor aenean dis placerat.\"",
+          "description": "\"Redefining your Customer Relationship\"",
           "language": "\"en-US\"",
-          "socialImageAssetId": "dd615be45848f576bd5a4d37a33c5271ce446717370fedb122db2e6836c8ae25"
+          "socialImageAssetId": "dd615be45848f576bd5a4d37a33c5271ce446717370fedb122db2e6836c8ae25",
+          "custom": []
         },
         "marketplace": {
           "include": true,
@@ -59952,9 +59953,10 @@
     "rootInstanceId": "Nt7qDXIegyunmPsxvC5Vq",
     "systemDataSourceId": "YM1a_TzLRzq5KnAuCvK7G",
     "meta": {
-      "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fugiat nulla suspendisse tortor aenean dis placerat.\"",
+      "description": "\"Redefining your Customer Relationship\"",
       "language": "\"en-US\"",
-      "socialImageAssetId": "dd615be45848f576bd5a4d37a33c5271ce446717370fedb122db2e6836c8ae25"
+      "socialImageAssetId": "dd615be45848f576bd5a4d37a33c5271ce446717370fedb122db2e6836c8ae25",
+      "custom": []
     },
     "marketplace": {
       "include": true,
@@ -59973,9 +59975,10 @@
       "rootInstanceId": "Nt7qDXIegyunmPsxvC5Vq",
       "systemDataSourceId": "YM1a_TzLRzq5KnAuCvK7G",
       "meta": {
-        "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fugiat nulla suspendisse tortor aenean dis placerat.\"",
+        "description": "\"Redefining your Customer Relationship\"",
         "language": "\"en-US\"",
-        "socialImageAssetId": "dd615be45848f576bd5a4d37a33c5271ce446717370fedb122db2e6836c8ae25"
+        "socialImageAssetId": "dd615be45848f576bd5a4d37a33c5271ce446717370fedb122db2e6836c8ae25",
+        "custom": []
       },
       "marketplace": {
         "include": true,

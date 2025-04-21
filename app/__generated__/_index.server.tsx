@@ -22,7 +22,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   return {
     title: "Home",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fugiat nulla suspendisse tortor aenean dis placerat.",
+    description: "Redefining your Customer Relationship",
     excludePageFromSearch: undefined,
     language: "en-US",
     socialImageAssetName: "finance-flow-cover_clUvThmsiAv0Qb65uYQcP.png",
